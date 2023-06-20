@@ -1,0 +1,25 @@
+.search{
+    display: block;
+}
+
+.thumb{
+    width: 300px;
+    margin-right: 20px;
+}
+
+.vid-preview{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.vid-tit{
+  width: 300px;
+}
+
+.vid-author{
+  
+}
+
+.vid-stats{
+
+}
